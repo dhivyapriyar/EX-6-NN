@@ -1,8 +1,8 @@
-<H3>ENTER YOUR NAME:</H3>DHIVYAPRIYA. R
-<H3>ENTER YOUR REGISTER NO.:</H3>212222230032
-<H3>EX. NO.6</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
+## ENTER YOUR NAME: DHIVYAPRIYA. R
+## ENTER YOUR REGISTER NO.: 212222230032
+## EX. NO.6
+## DATE:
+# EX 06 Heart attack prediction using MLP
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
@@ -64,5 +64,5 @@ print(classification_rep)
 ![image](https://github.com/dhivyapriyar/EX-6-NN/assets/119477552/8dff0a39-b8b8-4fad-bfbd-17f9c2121d46)
 
 
-<H3>Results:</H3>
+## Results:
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
